@@ -5031,14 +5031,14 @@ readers do not read off random characters that represent icons */
   width: 1.25em; }
 
 .copyright {
-  background: #004d1a;
+  background: #875467;
   color: #aaa;
   font-size: 0.9em;
   line-height: 2em;
   padding: 0.5em 1em; }
 
 .hosting {
-  background: #00802b;
+  background: #875469;
   color: #ddd;
   font-size: 0.9em;
   font-weight: normal;
@@ -5050,7 +5050,7 @@ readers do not read off random characters that represent icons */
   color: #acd; }
 
 .header {
-  background: #006080;
+  background: rgba(107, 59, 102, 0.8);
   box-shadow: 0 0 0.15em 0.15em rgba(0, 0, 0, 0.125);
   padding-bottom: 1.6em;
   padding-top: 1.6em; }
@@ -5081,7 +5081,7 @@ readers do not read off random characters that represent icons */
   padding: 2em; }
 
 .identities {
-  background: transparent; }
+  background: rgba(196, 136, 190, 0.5); }
 
 .identities .small-labels {
   padding: 1em; }
@@ -5102,7 +5102,7 @@ readers do not read off random characters that represent icons */
   color: #555; }
 
 .small-labels .label .link {
-  color: #a8d2ff; }
+  color: #0063cc; }
 
 .small-labels .group, .small-labels .label {
   display: inline-block;
@@ -5154,13 +5154,13 @@ readers do not read off random characters that represent icons */
   box-shadow: 0 0 0.2em 0.2em rgba(255, 255, 255, 0.05);
   transform: translate(1em, 1em); }
 
-.chem-element[element=sodium]::before {
-  content: '11';
+.chem-element[element=sodium]::after {
+  content: '39';
   font-size: .45em;
   vertical-align: -.5em; }
 
 .chem-element[element="sodium"]:hover {
-  background: #faa3a3; }
+  background: #c786fa; }
 
 body {
   font-size: 1em;
@@ -5170,7 +5170,7 @@ body {
   justify-content: center; }
 
 html {
-  background: url("../images/nat-pants.png");
+  background: url("../images/nat-pants.jpg");
   background-position: center;
   font-family: "Helvetica Neue", Helvetica, Arial, PingFangTC-Light, "Microsoft YaHei", 微软雅黑, "STHeiti Light", STXihei, "华文细黑", Heiti, 黑体, sans-serif; }
 
