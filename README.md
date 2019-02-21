@@ -1,4 +1,9 @@
-# ~/amphineko
+# ~/rcaricky
+
+*This is a personal repo for a personal page
+
+Following README from original author.
+Huge thanks to amphineko.
 
 This repository is a development copy of my homepage ([https://futa.moe/amphineko/](https://futa.moe/amphineko/)), which can be used as a template.
 
